@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
 mx: concordcc-com01i.mail.protection.outlook.com
+mx: concordcc-com01i.s-v1.mx.microsoft
 max_age: 604800
